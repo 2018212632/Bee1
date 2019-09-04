@@ -1,0 +1,40 @@
+
+body{
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ffb92a;
+  width: 100vw;
+}
+header div{
+  margin: 3.2292vw 0 1.0938vw 0;
+}
+h1{
+  margin: 0;
+}
+#back{
+  background: url(./back.gif) no-repeat;
+  background-size:100% 100%;
+  margin-left: 1.6146vw;
+  width: 0.8854vw;
+  height: 1.6146vw;
+}
+#title{
+  margin-left: 13.3333vw;
+  font-size:  0.9vw;
+}
+#set{
+  background: url(./set.gif) no-repeat;
+  background-size:100% 100%;
+  margin: 2.3438vw 1.5104vw 0.2083vw 3.125vw;
+  width: 10.5208vw;
+  height: 3.3854vw;
+}
